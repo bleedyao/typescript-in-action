@@ -22,3 +22,6 @@
 * command of starting production environment
   * "build": "webpack --mode=production --config ./build/webpack.config.js",
   
+## datatype.ts
+
+typescript 的基本数据类型
